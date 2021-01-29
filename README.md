@@ -1,3 +1,3 @@
 # PyGenetics
 genetic algorithm
-![hippo](https://gph.is/st/EObb53P)
+![hippo](https://media.giphy.com/media/Z8Roqj3hgeK91kYCCu/giphy.gif)
